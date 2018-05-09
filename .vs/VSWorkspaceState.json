@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\tf-openpose",
+    "\\tf-openpose\\src"
   ],
+  "SelectedNode": "\\tf-openpose",
   "PreviewInSolutionExplorer": false
 }
